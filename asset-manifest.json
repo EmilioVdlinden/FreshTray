@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/FreshTray/static/css/main.acb81271.css",
+    "main.js": "/FreshTray/static/js/main.86e0f579.js",
+    "static/media/embleem@4x.png": "/FreshTray/static/media/embleem@4x.5526bbbd1cdf0b264836.png",
+    "index.html": "/FreshTray/index.html",
+    "static/media/blueEllips.svg": "/FreshTray/static/media/blueEllips.49429df6218499a02cd42f4315f3af7c.svg",
+    "static/media/darkBlueEllips.svg": "/FreshTray/static/media/darkBlueEllips.5cd3151e84df59cc877bb5249a7df6a4.svg",
+    "static/media/redEllipse.svg": "/FreshTray/static/media/redEllipse.6b3099ff8c7cac7d147ce92c7cb9f969.svg",
+    "main.acb81271.css.map": "/FreshTray/static/css/main.acb81271.css.map",
+    "main.86e0f579.js.map": "/FreshTray/static/js/main.86e0f579.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acb81271.css",
+    "static/js/main.86e0f579.js"
+  ]
+}
